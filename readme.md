@@ -4,7 +4,7 @@
 <a href="https://belowaverage.org/"><img src="https://raw.githubusercontent.com/krisdb2009/webdows-docs/master/images/website.png"></a>
 </p>
 <hr>
-<h2 align="center">Windows 7 Web Demo is a dynamic window API for the web browser designed to simulate the feel of Microsoft Windows 7 RTM</h2>
+<h2 align="center">Xandows 7 is a dynamic window API for github to have the feel of Microsoft Windows 7 RTM</h2>
 <hr>
 <h1>Features</h1>
 
